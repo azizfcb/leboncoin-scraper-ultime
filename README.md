@@ -12,6 +12,6 @@ Exemple:
 - Page résultats de recherche: https://www.leboncoin.fr/recherche?text=messi%20maillot
 - Page catégorie: https://www.leboncoin.fr/f/motos/u_moto_brand--YAMAHA
 
-# Comment ça amrche
+# Comment ça marche
 Avez vous copié le lien cible? Jetter un coup d'oeil sur [Leboncoin ultime scraper⚡](https://apify.com/azzouzana/leboncoin-ultime-scraperd) 😉 
 
