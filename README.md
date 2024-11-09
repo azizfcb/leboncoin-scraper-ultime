@@ -13,5 +13,5 @@ Exemple:
 - Page catégorie: https://www.leboncoin.fr/f/motos/u_moto_brand--YAMAHA
 
 # Comment ça marche
-Avez vous copié le lien cible? Jetter un coup d'oeil sur [Leboncoin ultime scraper⚡](https://apify.com/azzouzana/leboncoin-ultime-scraper) 😉 
+Avez vous copié le lien cible? Jetter un coup d'oeil sur [Leboncoin ultime scraper⚡](azzouzana/leboncoin-listing-pages-scraper-by-search-url) 😉 
 
