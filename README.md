@@ -7,10 +7,7 @@
 🔥 Apportez vos URLs et c'est parti !
 👉 Il vous permet de récupérer des détails riches tels que les titres, descriptions, photos, date de publication, prix, catégorie et plein d'autres information! Tout ce dont vous avez besoin c'est le lien vers la page résultats de recherche ou la page catégorie (optionellement en ayant les filtres appliqués):
 
-Exemple:
-
-- Page résultats de recherche: https://www.leboncoin.fr/recherche?text=messi%20maillot
-- Page catégorie: https://www.leboncoin.fr/f/motos/u_moto_brand--YAMAHA
+Exemple: https://www.leboncoin.fr/recherche?text=messi%20maillot
 
 # Comment ça marche
 Avez vous copié le lien cible? Jetter un coup d'oeil sur [Leboncoin listing pages scraper (by search URL) ⚡](https://apify.com/azzouzana/leboncoin-listing-pages-scraper-by-search-url) 😉 
