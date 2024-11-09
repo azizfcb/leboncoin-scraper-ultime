@@ -1,4 +1,4 @@
-# [Leboncoin ultime scraper⚡](https://apify.com/azzouzana/leboncoin-ultime-scraper) 
+# [Leboncoin listing pages scraper (by search URL) ⚡](https://apify.com/azzouzana/leboncoin-listing-pages-scraper-by-search-url) 
 🔥NO-CODE! Copier/coller le lien vers la page de recherche ou catégorie en ayant les filtres appliqués et obtenir les résultats! ⚡ Extraire les infos détaillées (titre, description, photos, prix, attributs, et plus encore) à très faible coût, en format JSON, CSV, HTML, EXCEL...
 
 🤩 Vue d'ensemble
@@ -13,5 +13,5 @@ Exemple:
 - Page catégorie: https://www.leboncoin.fr/f/motos/u_moto_brand--YAMAHA
 
 # Comment ça marche
-Avez vous copié le lien cible? Jetter un coup d'oeil sur [Leboncoin ultime scraper⚡](azzouzana/leboncoin-listing-pages-scraper-by-search-url) 😉 
+Avez vous copié le lien cible? Jetter un coup d'oeil sur [Leboncoin listing pages scraper (by search URL) ⚡](https://apify.com/azzouzana/leboncoin-listing-pages-scraper-by-search-url) 😉 
 
